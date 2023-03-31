@@ -1,1 +1,1 @@
-# v13-regbot-main
+# Kurulum nasıl yapılır? İlk baştaKurulum yapmak için dosyadaki configleri doldurun.Sonra dosyaya sağ tıklayıp cmd ile aç diyoruz ve npm i yazıyoruz sonra moduller yüklenince node . yazarak botu aktif edebilirsiniz
